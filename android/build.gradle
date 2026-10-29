@@ -4,7 +4,7 @@ buildscript {
 
   repositories {
     google()
-    jcenter()
+    //jcenter()
   }
 
   dependencies {
@@ -52,7 +52,7 @@ android {
 
 repositories {
   mavenCentral()
-  jcenter()
+  //jcenter()
   google()
 
   def found = false
